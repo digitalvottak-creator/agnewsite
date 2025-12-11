@@ -1,0 +1,3 @@
+[build]
+builder = "NIXPACKS"
+node_version = "20"
